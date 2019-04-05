@@ -15,10 +15,11 @@ This works when transferring from one workspace to another.
 #### Use of this project :
 
 1. Download the project
-1. Install packages in requirement.txt `pip intall -r requirements.txt`
-1. In `transferProject.py` file add your personal api key, old new project key
+1. Install packages in requirement.txt `pip install -r requirements.txt`
+1. In `transferProject.py` file add your personal api key, old and new project ID
 1. Then run the script
 
 NOTE : Some of the information is not transferred
 
-folder asana has been taken from project-asana (https://github.com/Asana/python-asana)
+
+Feel free to report bugs and features in github!!
