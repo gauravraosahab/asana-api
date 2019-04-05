@@ -21,5 +21,6 @@ This works when transferring from one workspace to another.
 
 NOTE : Some of the information is not transferred
 
+Folder asana has been taken from `python-asana` (https://github.com/Asana/python-asana)
 
 Feel free to report bugs and features in github!!
